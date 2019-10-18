@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recycler Application</string>
+
+    <string-array name="hantu_array">
+        <item>Kuyang</item>
+        <item>Pocong</item>
+        <item>Kunti</item>
+        <item>Genderuwo</item>
+        <item>Tuyul</item>
+        <item>Sundel Bolong</item>
+        <item>Jenglot</item>
+        <item>Wewe Gombel</item>
+        <item>Suster Ngesot</item>
+    </string-array>
+
+</resources>
